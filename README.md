@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [salesforcehunt](https://salesforcehunt.blogspot.com/)
 
-- 💬 Ask me about **Salesforce Admin, Development,LWC and Integration**
+- 💬 Ask me about **Salesforce Admin, Development, LWC and Integration**
 
 - 📫 How to reach me **rohit007salesforce@gmail.com**
 
